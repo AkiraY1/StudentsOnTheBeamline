@@ -10,4 +10,4 @@ This repostory has the code (xy2tab_mod.py) that I used to analyze the raw bond 
 
 The code is modified from Sebastian Dechert's (radi0sus) xyz2tab project.
 
-The final slideshow we created for the presentation is SotB_Presentation.pdf.
+The final slideshow we created for the presentation is [SotB_Presentation.pdf](https://github.com/AkiraY1/StudentsOnTheBeamline/blob/main/SotB_Presentation.pdf).
