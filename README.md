@@ -1,5 +1,7 @@
 # Students on the Beamlines (SotB)
 
+![Molecular Structure](https://github.com/AkiraY1/StudentsOnTheBeamline/blob/main/Media/MolecStructure.png?raw=true)
+
 ## What is SotB?
 
 Students on the Beamline is an annual competition for Canadian high school students. Students submit a project proposal to the Canadian Light Source (CLS) (one of Canada's two particle accelerator facilities) and the winning team conducts their experiment at the CLS. For our team, the whole process took two years, from beginning ideation to finally presenting our results to researchers in Saskatchewan.
