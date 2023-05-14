@@ -1,8 +1,8 @@
 # Students on the Beamlines (SotB)
 
-![Molecular Structure](https://github.com/AkiraY1/StudentsOnTheBeamline/blob/main/Media/MolecStructure.png?raw=true)
-
-<img src="https://github.com/AkiraY1/StudentsOnTheBeamline/blob/main/Media/MolecStructure.png" width="100" height="100">
+<p align="center">
+<img src="https://github.com/AkiraY1/StudentsOnTheBeamline/blob/main/Media/MolecStructure.png" width="350" height="350">
+</p>
 
 ## What is SotB?
 
